@@ -1,4 +1,4 @@
 # Hello-World
 ## Masoud Habibzad
-and some text
+Thank you for visiting. I am just learning how to use github.
 
